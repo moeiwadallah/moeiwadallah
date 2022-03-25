@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @moeiwadallah
-- 👀 I’m interested in ... CV omputer
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ... CV omputersciences
+- 🌱 I’m currently learning ...course
+- 💞️ I’m looking to collaborate on ...google
+- 📫 How to reach me ...01020377358mo@gmail.cim
 
 <!---
 moeiwadallah/moeiwadallah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
